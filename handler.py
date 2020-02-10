@@ -4,7 +4,7 @@ import time
 
 def hello(event, context):
     body = {
-        "message": "Hello World. Go Serverless v1.0! Your function executed successfully!",
+        "message": "Hello Worl. Go Serverless v1.0! Your function executed successfully!",
         "input": event
     }
 
